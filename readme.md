@@ -79,5 +79,6 @@ Razor
 ```html
 <a class="nav-link text-dark" asp-area="" asp-page="/HelloWorld">Hello Razor</a>
 ```
+![enter image description here](https://raw.githubusercontent.com/IvanRainbolt/AddRazorPagesToMVC/master/images/17.navrendering.png)
 
 I create this for my own reference and hopefully others will also find it helpful.
