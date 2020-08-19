@@ -66,6 +66,7 @@ That will result in the following rendered html:
 ![enter image description here](https://raw.githubusercontent.com/IvanRainbolt/AddRazorPagesToMVC/master/images/15.razorRendered.png)
 
 IF you do not copy the `_ViewStart.cshtml` file to the `>Pages` folder, you CAN selectively apply the layout to a individual Razor files by adding the tag to page:
+
 ![enter image description here](https://raw.githubusercontent.com/IvanRainbolt/AddRazorPagesToMVC/master/images/16.layoutforpageonly.png)
 
 ## Navigation
@@ -74,11 +75,15 @@ MVC
 ```html
 <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
 ```
+
 vs
 Razor
 ```html
 <a class="nav-link text-dark" asp-area="" asp-page="/HelloWorld">Hello Razor</a>
 ```
+
 ![enter image description here](https://raw.githubusercontent.com/IvanRainbolt/AddRazorPagesToMVC/master/images/17.navrendering.png)
+
+[github](https://github.com/IvanRainbolt/AddRazorPagesToMVC)
 
 I create this for my own reference and hopefully others will also find it helpful.
