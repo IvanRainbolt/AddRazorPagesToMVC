@@ -87,3 +87,7 @@ Razor
 [github](https://github.com/IvanRainbolt/AddRazorPagesToMVC)
 
 I create this for my own reference and hopefully others will also find it helpful.
+
+[EXTERNAL REFERENCES]
+https://dev.to/ivanrainbolt/add-razor-pages-support-to-a-net-core-mvc-project-1j54
+
